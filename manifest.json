@@ -1,52 +1,52 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-10-25T00:03:30+08:00",
-  "data_hash": "945a68faa3fc930c5bb1f501d25651c776886d9a31ec5f0bc444ef5ef9e3f312",
+  "generated_at": "2026-10-26T12:51:27+08:00",
+  "data_hash": "c16268389137439c2626f38ed3a08f2ad2e87789a617dc68b82ddb8b71fb6576",
   "files": {
     "abilities.json": {
       "bytes": 142927,
       "sha256": "5e731bc3c42076d66b99b02303045729fb0054cdee9742e127b797df033c75c5"
     },
     "cn/jingji_-127.json": {
-      "bytes": 453476,
-      "sha256": "4f9c6309219929f65fc2dad1c2a805ab61f8c7ee2fd5d8c10effdd1cefb0f64e"
+      "bytes": 454894,
+      "sha256": "5c6bb5c7e35d208e1fcbf5741b59a09d898d64b1a584317aeca73f3766ef86e0"
     },
     "cn/jingji_Bronze.json": {
-      "bytes": 453319,
-      "sha256": "4a8c66b406ba854643ccab7320c75e37a3ff420d267ee4312de46399b1d66fc9"
+      "bytes": 454735,
+      "sha256": "4e3bc66ebf0d7299813d9870e32c63e7479e452699be79aa937843efd62b5f1d"
     },
     "cn/jingji_Champion.json": {
       "bytes": 9315,
       "sha256": "81c94897cfc2ed4334e514477fc71d8c44382ebe83c7dcc894bd3fc0b1b00626"
     },
     "cn/jingji_Diamond.json": {
-      "bytes": 452828,
-      "sha256": "e09558958103ab2f017e389b2fc923b040d5160b3693e23916a9cd59c8d7e3bd"
+      "bytes": 454237,
+      "sha256": "6edef5a7f5b7c668197608912026ae08c099916ba0c5a045cdf0d5041d2dc605"
     },
     "cn/jingji_Gold.json": {
-      "bytes": 453096,
-      "sha256": "ec48f0d4f7e892855487902277a38776781482749571ac5920b354de3c4a5561"
+      "bytes": 454514,
+      "sha256": "60dd4dc1776e736ba5137667df03cba74383fb0cd561c61749a7b467aa28940b"
     },
     "cn/jingji_Grandmaster.json": {
-      "bytes": 300886,
-      "sha256": "296de533f5282b4f1ff209b4d68187609ec8c5310b9db0300c8b096babd8f714"
+      "bytes": 301239,
+      "sha256": "39b8116f88e2c29e80a8d3733560bfe1a9b8c1fc9ed791a3d532dc55238b02dd"
     },
     "cn/jingji_Master.json": {
-      "bytes": 451454,
-      "sha256": "d5bed4dc7f9381457e379faeabef4540c43f7037580de7ec1255a2fd39913168"
+      "bytes": 452877,
+      "sha256": "6e2f77125d1bee5a1bf95a75937574a757dbf6d0836d4006085cd53408496414"
     },
     "cn/jingji_Platinum.json": {
-      "bytes": 453451,
-      "sha256": "10f42bea539c9db8e2bd1cf473190eac3b5a994891e1b29ccb6f06b1763071ef"
+      "bytes": 454873,
+      "sha256": "76872e710a2332ab64eb28473ddc6d5e305428b7bc3db03dfb50670ef588bda4"
     },
     "cn/jingji_Silver.json": {
-      "bytes": 453385,
-      "sha256": "0c100c50a2f10b28acfc5a6e00504f7cda4afa4091e7f0bb52999add0ec6f2d5"
+      "bytes": 454799,
+      "sha256": "ed3ea4016c474414cd30618265980883204ee5cc7a16a3730de043972c597523"
     },
     "cn/juedou_-127.json": {
-      "bytes": 282279,
-      "sha256": "610212e4412fca13640119bf0f5a769aa7972c2eca67e0fc7ad2532ebefea77f"
+      "bytes": 283122,
+      "sha256": "5c4a47f30cb9c340d4f37ca2a3b7d28728b3fe557df03736d7ef90c0f09ebb60"
     },
     "cn/juedou_AllStar.json": {
       "bytes": 24328,
@@ -77,48 +77,48 @@
       "sha256": "1665e1fe8a630ce1870b62ca900ac7a54c77f39e8966f0ab45107b6e0dfababe"
     },
     "cn/kuaisu_-127.json": {
-      "bytes": 435994,
-      "sha256": "e2bf8cc507154d292440a013459ab02aae69d7f6d7f3f612524b1fc496848ac3"
+      "bytes": 437354,
+      "sha256": "0555463efd0399a82a165175d501f3abdfa4a6bcf955b147457ac76e5cc5783c"
     },
     "cn/kuaisu_Bronze.json": {
-      "bytes": 435961,
-      "sha256": "881f5e822db064f697c91b410a699f855bf7002a8070ddb2fa76272b03b34550"
+      "bytes": 437326,
+      "sha256": "4c8896a7402e6837b51b1ad06b9c86667e590098ad283d74cc29678acf15d704"
     },
     "cn/kuaisu_Champion.json": {
-      "bytes": 428852,
-      "sha256": "0a36e9656c2c5dc90b037cbe785c7dc57152790028536d96a8faef220427c1a1"
+      "bytes": 430220,
+      "sha256": "471f95629b6438b8104053d2c25f7b7604b805bc5c1db994339e4b416cf00084"
     },
     "cn/kuaisu_Diamond.json": {
-      "bytes": 436051,
-      "sha256": "6eeb394055aebef96a13ac5acbf2860d3e5eef65e2ad045d98dbdb51752db91a"
+      "bytes": 437419,
+      "sha256": "5a41623aed43d9a7d67684633b7c6f73daea7006f07747b37e22f93dec004218"
     },
     "cn/kuaisu_Gold.json": {
-      "bytes": 436029,
-      "sha256": "51fe85ea5a9a3742d35894c7f2ff8931ef6b0cb268bb468087aa51ec2d82561d"
+      "bytes": 437396,
+      "sha256": "3f2715b33d1387934338ae5397ef2415fb57bdc8d047477eb400e78f351b2421"
     },
     "cn/kuaisu_Grandmaster.json": {
-      "bytes": 435806,
-      "sha256": "c310e53ac945d71bcee1e59e518fbcefec53c78c8e385119d81614770674bf4e"
+      "bytes": 437170,
+      "sha256": "e1f8cb008e5c604c783168f54f0cabaeae083d388722ca93ea39ecb38b8c8bde"
     },
     "cn/kuaisu_Master.json": {
-      "bytes": 436166,
-      "sha256": "598e59c34363be1e32840d40c356692babf52973af89ac5bb0c8c01bd12004a4"
+      "bytes": 437532,
+      "sha256": "08c72db98b158465511b323c8e021323992581d92e9349cfe50387c77baa50b0"
     },
     "cn/kuaisu_Platinum.json": {
-      "bytes": 436144,
-      "sha256": "adabf144075eb347b5d4805a497a9779cd5da8808319a1c23ab7c5510abc162c"
+      "bytes": 437510,
+      "sha256": "cfe7f617a03f9d840a8424ef74888d007d109790fb44f63efbd9b0f913cb0d62"
     },
     "cn/kuaisu_Silver.json": {
-      "bytes": 436054,
-      "sha256": "8b7ea8ef6adf9b0d3aa6f6d7bf997e49e2c6c11b1a2573db65bef4f94ce7ebbf"
+      "bytes": 437417,
+      "sha256": "a278f13a5aebb632bb7099931027fd9447d71747de2856081046ecee8f74e99f"
     },
     "cn/tiers.json": {
-      "bytes": 30079,
-      "sha256": "ca541a32b4a122183765133e5e307b71903ae33965ac7a77a3bd805c2b9a0264"
+      "bytes": 30118,
+      "sha256": "a106b32f589b88ae340b6011958220ddf4d3d8e15cdbeb95d1e4dce723bd36fb"
     },
     "global.json": {
-      "bytes": 660522,
-      "sha256": "bc6b921dab3cfa9954d158e97a43fbcfe66c376f93c764f6d1ee94a486a816a0"
+      "bytes": 733628,
+      "sha256": "efe545aa8de94d8810666a0bc20d18c2db38b1eb10cb9f9b3e490cc341b8d980"
     },
     "heroes.json": {
       "bytes": 23817,
@@ -126,7 +126,7 @@
     },
     "meta.json": {
       "bytes": 416,
-      "sha256": "3382f827384ba5e5a0f0d48ff5f964fe9d17315559e2f9b3834f391ba3480b90"
+      "sha256": "f1451ca663f4f89a7a5ba622578eb9b7f3a31c42616257109ee8ae8190418202"
     },
     "patches.json": {
       "bytes": 52439,
