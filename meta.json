@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-14T06:02:18+08:00",
-  "latest_cn_date": "2026-11-12",
+  "generated_at": "2026-11-14T10:02:02+08:00",
+  "latest_cn_date": "2026-11-13",
   "latest_global_date": "2026-11-14",
   "patch_source_default": "translated",
   "current_season": 5,
   "site_stats": {
-    "cn_days": 368,
+    "cn_days": 369,
     "cn_first": "2025-11-07",
     "cn_season": 5,
-    "cn_season_day": 36,
+    "cn_season_day": 37,
     "global_days": 71,
     "patches": 65,
     "heroes": 54
