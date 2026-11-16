@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-17T00:03:02+08:00",
-  "data_hash": "3843cb8bef00c70260baeb0ad6c318a3c7d5cdaf3a9fdd067278dc8d40a7582a",
+  "generated_at": "2026-11-17T03:01:20+08:00",
+  "data_hash": "0146508b8aa6086263c54702ef4b678b50580649109b07cbd7087eec0bd5279c",
   "files": {
     "abilities.json": {
       "bytes": 143122,
@@ -130,11 +130,11 @@
     },
     "meta.json": {
       "bytes": 416,
-      "sha256": "ae2e889eeb05718105bc29911d39bbe43751ff4a2b417fc145d2e408ef609ee0"
+      "sha256": "0f64146dc31fae9825a0ae5ad83405a7618f43430a506f73b3d4c52bc64aa7bb"
     },
     "patches.json": {
-      "bytes": 54372,
-      "sha256": "ddfb4c7d84f3abd3b09b18617cfe626ae4af816d8bb8bea5a832c72c3c8dcdf3"
+      "bytes": 54592,
+      "sha256": "f374a8d018b7159fa4f34f5507765f83b3170ffda4cd9faee0d8c244df7e9382"
     },
     "patches/16.json": {
       "bytes": 1801,
@@ -395,6 +395,10 @@
     "patches/95.json": {
       "bytes": 2378,
       "sha256": "0f2781a5e2781c3ad8b548453e097e5342800fd4ae97a9eca3c9c91bc5db4b23"
+    },
+    "patches/96.json": {
+      "bytes": 1076,
+      "sha256": "23bfec738e994fb1bd8e270b30476b20feb3b3dd673bbf7e055ddff249b5e739"
     }
   }
 }
