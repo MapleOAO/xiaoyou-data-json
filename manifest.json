@@ -1,124 +1,124 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-16T00:03:12+08:00",
-  "data_hash": "4943a8d2a2a98198c7ddc5cab0034a01955c2df3b6af6afeee4e1b96d314b8ff",
+  "generated_at": "2026-11-16T10:01:57+08:00",
+  "data_hash": "123cdcfc4b9a74a40972474e2dfb9a9cc14e337308645525cc82d3727246b9cf",
   "files": {
     "abilities.json": {
       "bytes": 143122,
       "sha256": "aeb23e484f24f53ff67c78b1c2a0b4dafa844ad5acbcada0feee48cf33253999"
     },
     "cn/jingji_-127.json": {
-      "bytes": 483019,
-      "sha256": "df5782076f7fe6f72f2ef24eaeb17399950febdd6cfe2987bba6facbc63b963a"
+      "bytes": 484436,
+      "sha256": "22fdf39f3123db7b82e469043e7bcccbe3d710f64619de551ed503236da38c2e"
     },
     "cn/jingji_Bronze.json": {
-      "bytes": 482985,
-      "sha256": "1ea75d7ef869cf13a9f194d3a3cb6f2075d0787ec05aef2a64d6ca8406a5f784"
+      "bytes": 484395,
+      "sha256": "8e67da82015ebed34c4e43037a046b8cf48aaf61855204f6f9b95537a9b5c910"
     },
     "cn/jingji_Champion.json": {
-      "bytes": 26747,
-      "sha256": "2a4d06127b5595c24d1fd4336c83f61015686e162165c88922f5685525b0ae82"
+      "bytes": 28143,
+      "sha256": "e42cd84e53aae2a6bab7001160a729cbf59aa83c823d09d9acab1fe8c9d6c312"
     },
     "cn/jingji_Diamond.json": {
-      "bytes": 482561,
-      "sha256": "b49477fb9e5a090ce9f9da1cc83be7f43a08aca0c01fc9a428ee7a4eb07a719a"
+      "bytes": 483973,
+      "sha256": "e5e6931e28292ecd3b1a003a01214f305b49d02d25063983bf18978b7849a9de"
     },
     "cn/jingji_Emerald.json": {
-      "bytes": 17484,
-      "sha256": "412efe5f469aa57632e9319dda8564fa606d3b5498f028683dae543650e4c205"
+      "bytes": 18889,
+      "sha256": "42284c7c3faeb831c0c87b80614341b80b840db6adaa46a792975af6acf5be1b"
     },
     "cn/jingji_Gold.json": {
-      "bytes": 482603,
-      "sha256": "1d7b3e15a7f83386f01fae331cf1507de851a72ae33c3ffabb715d4827291039"
+      "bytes": 484012,
+      "sha256": "0af5e77bf92e65d152ee98b617ddb6c5d3990b6d7d3322001d6aa975bd5fd1e6"
     },
     "cn/jingji_Grandmaster.json": {
-      "bytes": 321670,
-      "sha256": "876ca507260d47cc2fbd5c08d62eedcdea596ed933835313a93c6be9e22b5c56"
+      "bytes": 323084,
+      "sha256": "40117857bd412508807c3638f4ffff2451d7fa5d1e4eb66715b8793cd43b3607"
     },
     "cn/jingji_Master.json": {
-      "bytes": 481136,
-      "sha256": "5b81e8e6a409ce986d65b22f470368e032ae89747cd6b6377659848d14e0ff95"
+      "bytes": 482548,
+      "sha256": "6f79316bf62457a2b14898d4951ee0a12fe91815a02548cce92752ae57982cbe"
     },
     "cn/jingji_Platinum.json": {
-      "bytes": 482957,
-      "sha256": "68caf8d7aa00b84d7a55e24566dcd971fa8c29facfb4f0fcec2bb8482f2b5d41"
+      "bytes": 484368,
+      "sha256": "819ead7104ce79081127eced475bdae55d7ecd8b35dbc419df23e6f158e76029"
     },
     "cn/jingji_Silver.json": {
-      "bytes": 483167,
-      "sha256": "19fc06b102f4f064825cff3692f726e2fb93b8742cb8d4f13f859b59e5c33732"
+      "bytes": 484583,
+      "sha256": "c5802d43a9a1eb5e932601960a6f0d6d553a982bd317014870ba4f12fec672fb"
     },
     "cn/juedou_-127.json": {
-      "bytes": 300045,
-      "sha256": "c2095ad73f950e7c82ac49e04beac5471ec79afef9b6b8b7d0caa693fe919962"
+      "bytes": 300893,
+      "sha256": "3f4c0fc372fb0be5f40fa55b1d6e869eb7dbaf7f41eb39819630033c01f3b969"
     },
     "cn/juedou_AllStar.json": {
-      "bytes": 34689,
-      "sha256": "628cb1c165b802f5b4d074c03665f641c908114374ef57129dfaec9128af92af"
+      "bytes": 35534,
+      "sha256": "f417e1beb85990658a5cbec3c1cbb6109211795845052475e87706149799bc49"
     },
     "cn/juedou_Contender.json": {
-      "bytes": 34651,
-      "sha256": "f16e3bf8cc281f8e2c211d5ed7d47708ecfa60c16b5587e413506b0c3c0c2ea7"
+      "bytes": 35496,
+      "sha256": "3aaa72f0516a678c5aac841ca112f33151fa7941c55ccf1b647818de67410ab2"
     },
     "cn/juedou_Elite.json": {
-      "bytes": 34764,
-      "sha256": "a8c64b6ed69e8450aadc4f77e2a826954521d938842ce99e785f640b3b80757c"
+      "bytes": 35611,
+      "sha256": "bd974c102bb004e79cfddb774464d7a920a1869cccd086fcdba65e1528bd6c26"
     },
     "cn/juedou_Legend.json": {
-      "bytes": 34562,
-      "sha256": "827cb8771d1df8d864ccd4e8cef94cdb1858f46afc9ba9b147a19e389fc46ea0"
+      "bytes": 35408,
+      "sha256": "48118c70dfcc3c9573f88c7d642eea1599949067bb285819f8a7917513e9d28c"
     },
     "cn/juedou_Novice.json": {
-      "bytes": 34635,
-      "sha256": "85248e52fc5f9dc717befd23c2e94ce44be4313701842218af8566279055ac95"
+      "bytes": 35473,
+      "sha256": "5ea5f64a94dfa38d3aa78f961a2dd6ad73f25187fd815fae01f469a28dcf0d43"
     },
     "cn/juedou_Pro.json": {
-      "bytes": 34703,
-      "sha256": "7ddf59927fbb4ef955482e6a34d3cb47bb0ecf07ee6fc1cd1d6c13e15a510137"
+      "bytes": 35550,
+      "sha256": "0aed00d20c0f1ec640ad070a4cb78a41edddd9005d14cf40abac539128d073c1"
     },
     "cn/juedou_Rookie.json": {
-      "bytes": 34775,
-      "sha256": "cb177dfe5005311684186c0adeb567fcce3b28491d264ae33b7003f7bab0d8af"
+      "bytes": 35618,
+      "sha256": "8211457c350e0e8e8cc5ca9f9d040b032922c52bc79d1fd0a33297f28023b5a2"
     },
     "cn/kuaisu_-127.json": {
-      "bytes": 464549,
-      "sha256": "2d5ac2570dc6effd61800da53a1a5b7361d14289480707231dd5a89153df294e"
+      "bytes": 465913,
+      "sha256": "8fdc18ae553eea435dc9085f4aa521abbb1313a270a5cb11cd15ae10a21e199c"
     },
     "cn/kuaisu_Bronze.json": {
-      "bytes": 464584,
-      "sha256": "215a944be86b58c4bb774cf6e18db478c58f206575ce18e4a1cf43c756251f00"
+      "bytes": 465943,
+      "sha256": "595ee1249c7e2e24433b2f4383182dfbdf28ce8e3cf013a9ffc404f9f8c20aae"
     },
     "cn/kuaisu_Champion.json": {
-      "bytes": 457500,
-      "sha256": "13bb4f3d4654439b39392fca10be33e23686554218f2f76007d640fae5e05d5e"
+      "bytes": 458869,
+      "sha256": "ee29f6143974fe64f823dee479bd268037e91abc212052f741be3850c75c5f53"
     },
     "cn/kuaisu_Diamond.json": {
-      "bytes": 464697,
-      "sha256": "f5b1b045b2b9d76a255ea0f0f7bc6909ff0c57949646439595d219fda0f7ad8f"
+      "bytes": 466051,
+      "sha256": "6e331f467178f4302785221ee99018913bb5b7a395686c41113b25596e225c43"
     },
     "cn/kuaisu_Gold.json": {
-      "bytes": 464686,
-      "sha256": "9681e45ef89d541f68a552a3c49c88f9b63ca29fe91f7b1d99d07d8cb742d628"
+      "bytes": 466048,
+      "sha256": "b5a65939d9ca448b0a94f58ec3dd0e210044b1055a94e56ff623b00f87e558bc"
     },
     "cn/kuaisu_Grandmaster.json": {
-      "bytes": 464428,
-      "sha256": "74da7f8eb2ec5b3b071e2a7a40f77238004e5527eda66ee450180e8bf8738772"
+      "bytes": 465786,
+      "sha256": "f203ce3e9709f03f452382ffc4136ca9401f56caf011fdc7ee4fed9c1c605562"
     },
     "cn/kuaisu_Master.json": {
-      "bytes": 464794,
-      "sha256": "cc58a0ba6af5810a2d9121aea6a3382cf515a4330147b765495db43714c61b13"
+      "bytes": 466163,
+      "sha256": "f83aba15fc76df596bd373527ffb41fcc1b9006f0f7c919037d2b6389ae0ce67"
     },
     "cn/kuaisu_Platinum.json": {
-      "bytes": 464793,
-      "sha256": "e79b48f5edd7faf53e3cb4ae4b39b0169f4f089cdb7c709051f55df2ed11ec7a"
+      "bytes": 466153,
+      "sha256": "122f902ca700a0bd8f6f65dd13b47ddd83c0db81c4806f2d826cabdce9ccb58a"
     },
     "cn/kuaisu_Silver.json": {
-      "bytes": 464665,
-      "sha256": "25ff04a35827309c485845f6d7a39e3e4f1380e56b0a53e0fd9da7e7e9dc4c09"
+      "bytes": 466025,
+      "sha256": "723cdb295b6e41e430ea6101787b263b207c98f7ed27a95e2d4912efd2b74b27"
     },
     "cn/tiers.json": {
-      "bytes": 40313,
-      "sha256": "e6266926fa33f483b8f3b55aa567e55ccc5dd5c756c75ad7134253f9fe2833c9"
+      "bytes": 40277,
+      "sha256": "afd7226c5b8f406dbb5ffb33a8335b70408b1f2858391ed8f4b6d972a1f2fd74"
     },
     "global.json": {
       "bytes": 2244557,
@@ -130,7 +130,7 @@
     },
     "meta.json": {
       "bytes": 416,
-      "sha256": "295c7d1476bb3d68a859aa1deccac9418296537ab4cfa633e65051172b76bde2"
+      "sha256": "61249b768a59ccacd2a65f924081608e66bba1613f973f9e5e98817738f01c53"
     },
     "patches.json": {
       "bytes": 54372,
