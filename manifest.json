@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:03:10+08:00",
-  "data_hash": "79d93968c91134be28af4763c6f594eba46bc1121dfc641e70121a9693a40b05",
+  "generated_at": "2026-11-26T20:03:13+08:00",
+  "data_hash": "6cb90c51bb12638433ed5251904203192dccb223531648f154deec6a49044125",
   "files": {
     "abilities.json": {
       "bytes": 143122,
@@ -121,8 +121,8 @@
       "sha256": "16f5da3f4aed21343e9de6d0a5af5009e25166bd1fcf74c0cc56eaf7cef732a7"
     },
     "global.json": {
-      "bytes": 2980086,
-      "sha256": "94e2d97959928492929ead2a6db5a73bea8740945c83c6f84e95a719b82a1e59"
+      "bytes": 2980085,
+      "sha256": "b44b7b7ba539d3429f57258a0ec68f964365669942c9a4fbe139904858657ba3"
     },
     "heroes.json": {
       "bytes": 23817,
@@ -130,7 +130,7 @@
     },
     "meta.json": {
       "bytes": 416,
-      "sha256": "6443f7d557cb804b297c7a00c578692a27fc8b70dcc362f9f59db80b488d7ede"
+      "sha256": "d27c426439d5d5c7d066caf5f9f1122b6273bb477ccf294c7498d294352a8ae9"
     },
     "patches.json": {
       "bytes": 54592,
